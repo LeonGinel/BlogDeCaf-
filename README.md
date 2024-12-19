@@ -1,5 +1,5 @@
 # BlogDeCafé
-A simple interface design for a blog related to courses and coffee preparation 100% responsive. developed with pure HTML and CSS
+Un diseño de interfaz simple para un blog relacionado con cursos y preparación de café 100% responsivo. desarrollado con HTML y CSS puro
 
 ## Tecnologías utilizadas
 - **HTML5**: Estructura del contenido
